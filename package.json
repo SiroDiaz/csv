@@ -1,0 +1,32 @@
+{
+  "name": "csv",
+  "version": "1.0.0",
+  "description": "A CSV reader/writer",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiroDiaz/csv.git"
+  },
+  "keywords": [
+    "csv",
+    "writer",
+    "reader",
+    "format"
+  ],
+  "author": "Siro Díaz Palazón",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiroDiaz/csv/issues"
+  },
+  "homepage": "https://github.com/SiroDiaz/csv#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
